@@ -60,7 +60,7 @@ export const projects: Project[] = [
     ],
     github: "https://github.com/yourhandle/hospital-serial-system",
     demo: "https://hospital-patient-serial-system.vercel.app/",
-    cover: "/1.png",
+    cover: "/tas.dev/1.png",
     problem:
       "Outpatient desks were tracking patient order on paper, causing lost tokens and disputes over turn order.",
     approach:
@@ -82,7 +82,7 @@ export const projects: Project[] = [
       "No-build vanilla JS front end for fast iteration",
     ],
     demo: "https://leadfinder-backend.vercel.app/",
-    cover: "/2.png",
+    cover: "/tas.dev/2.png",
     problem:
       "Manually searching for leads across scattered sources doesn't scale past a handful of prospects a day.",
     approach:
@@ -102,7 +102,7 @@ export const projects: Project[] = [
       "Testimonial carousel, animated stat counters, embedded map, contact form",
     ],
     demo: "https://framelabsfoundry.com/",
-    cover: "/3.png",
+    cover: "/tas.dev/3.png",
     problem:
       "The studio needed a site that could show off editing work and convert visitors into paying clients through clear pricing.",
     approach:
@@ -124,7 +124,7 @@ export const projects: Project[] = [
       "AI chat grounded in the scanned project, plus command palette (⌘K) navigation",
     ],
     demo: "https://synapse-neon-pi.vercel.app/",
-    cover: "/4.png",
+    cover: "/tas.dev/4.png",
     problem:
       "Handing an AI assistant a large codebase cold wastes time re-explaining structure every session.",
     approach:
@@ -146,7 +146,7 @@ export const projects: Project[] = [
       "Bilingual content structure (Bangla instruction, English industry terms)",
     ],
     demo: "https://vibexen.com",
-    cover: "/5.png",
+    cover: "/tas.dev/5.png",
     problem:
       "Most AI-coding education content is English-only, which is a real barrier for Bangla-speaking learners.",
     approach:
@@ -168,7 +168,7 @@ export const projects: Project[] = [
       "Minimal single-page layout, deployed on GitHub Pages",
     ],
     demo: "https://himu-vai.github.io/himu-portfolio/",
-    cover: "/6.png",
+    cover: "/tas.dev/6.png",
     problem:
       "A graphic designer's work needs to be seen, not read — text-heavy portfolio templates undersell visual work.",
     approach:
